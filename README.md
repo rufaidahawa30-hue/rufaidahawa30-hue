@@ -71,7 +71,7 @@ I love connecting with people, exploring nature 🍃, and everything magical & f
 
 ### ✨ Fun Touch
 <p align="center">
-  <img src="AIDA.png"font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Exploring+Tech+and+Design+🌸;Loving+Nature+and+Fairy+Vibes+🧚‍♀️;Always+Learning+Something+New+💻;Let's+Connect+and+Grow+Together+🌿"/>
+  <img src="pin.jpg"font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Exploring+Tech+and+Design+🌸;Loving+Nature+and+Fairy+Vibes+🧚‍♀️;Always+Learning+Something+New+💻;and+some+scrap+or+journaling+thing's;Let's+Connect+and+Grow+Together+🌿"/>
 </p>
 
 ---
