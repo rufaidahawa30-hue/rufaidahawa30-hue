@@ -82,9 +82,9 @@ I love connecting with people, exploring nature 🍃, and everything magical & f
 <!-- Embed Video -->
 
 <p align="center">
-  <video src="aida1.mp4" width="400" controls autoplay loop muted>
+  <img src="aida1.mp4" width="400" controls autoplay loop muted>
     Your browser does not support the video tag.
-  </video>
+  </img>
 </p>
 
 ---
