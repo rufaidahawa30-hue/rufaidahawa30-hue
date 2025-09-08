@@ -77,7 +77,7 @@ I love connecting with people, exploring nature 🍃, and everything magical & f
 <!-- Embed MP4 Video -->
 <p align="center">
   <video src="aida1.mp4" width="400" controls autoplay loop muted>
-    Loves all part of self
+    Loves all part of self🧚‍♀️
   </video>
 </p>
 
