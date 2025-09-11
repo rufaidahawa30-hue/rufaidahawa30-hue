@@ -57,8 +57,7 @@ I also love creating unexpected ideas 🎇—turning imagination into something 
 ### 🎮 Fun Touch  
 <p align="center">
   <!-- Animated typing effect -->
-  <img src="2.png">
-font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Exploring+Tech+and+Design+🌸;Loving+Nature+and+Fairy+Vibes+🧚‍♀️;Creating+Unexpected+Ideas+💡;Adventure+Mode:+ON+🎮"/>
+  <img src="2.png"font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Exploring+Tech+and+Design+🌸;Loving+Nature+and+Fairy+Vibes+🧚‍♀️;Creating+Unexpected+Ideas+💡;Adventure+Mode:+ON+🎮"/>
 </p>
 
 <!-- Game-like animated icons -->
