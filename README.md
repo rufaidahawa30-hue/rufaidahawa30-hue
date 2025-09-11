@@ -60,6 +60,17 @@ I also love creating unexpected ideas 🎇—turning imagination into something 
   <img src="2.png"font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Exploring+Tech+and+Design+🌸;Loving+Nature+and+Fairy+Vibes+🧚‍♀️;Creating+Unexpected+Ideas+💡;Adventure+Mode:+ON+🎮"/>
 </p>
 
+<p align="center">
+  
+  Exploring Tech and Design🌸 ; Loving Nature and Fairy Vibes🧚‍♀️ ; Creating Unexpected Ideas💡; 
+  
+</p>
+<p align="center">
+  
+ ADVENTURE MODE : ON
+  🎮
+</p>
+
 <!-- Game-like animated icons -->
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60" alt="Coding Icon"/>
