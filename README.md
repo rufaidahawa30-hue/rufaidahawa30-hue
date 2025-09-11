@@ -74,7 +74,7 @@ I also love creating unexpected ideas 🎇—turning imagination into something 
 ###Chill'n
  
 <p align="center">
-  <img src="Rufai.png" alt="Profile Picture" width="200" style="border-radius:50%">
+  <img src="pin.jpg" alt="Profile Picture" width="200" style="border-radius:50%">
 </p>
 
 ---
